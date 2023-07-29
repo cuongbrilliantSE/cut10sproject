@@ -1,0 +1,7 @@
+1. Mở powershell lên với quyền administrator
+	1.1 Gõ thanh tìm kiếm trên windows với chữ powershell
+	1.2. Open run as administrator
+
+2. Chạy file install_chocolatey.ps1
+
+3. Chạy file install_ffmpeg.ps1
